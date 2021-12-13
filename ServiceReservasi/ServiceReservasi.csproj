@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CekLokasi.cs" />
+    <Compile Include="DetailLokasi.cs" />
     <Compile Include="IService1.cs" />
     <Compile Include="Lokasi.cs" />
     <Compile Include="Pemesanan.cs" />
